@@ -1,0 +1,21 @@
+{
+  "name": "cacti-grower",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1",
+    "next": "12",
+    "react": "17",
+    "react-dom": "17"
+  },
+  "devDependencies": {
+    "eslint": "8.56.0",
+    "eslint-config-next": "14.1.0"
+  }
+}
